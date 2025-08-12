@@ -1,0 +1,4 @@
+Bonjour
+Ce fichier a été écrit avec python,
+avec la commande write
+merci pour votre attention.
